@@ -29,7 +29,7 @@ export const SubscribePage = () => {
     // Redirecionar após 2 segundos
     setTimeout(() => {
       navigate('/')
-    }, 2000)
+    }, 3000)
   }
 
   return (
