@@ -1,6 +1,5 @@
 export { Button } from './Button'
 export { Display } from './Display'
-export { AlchemistCircle } from './AlchemistCircle'
 export { Header } from './Header'
 export { HeroSection } from './HeroSection'
 export { BlogCard } from './BlogCard'
