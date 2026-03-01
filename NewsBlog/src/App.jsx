@@ -4,7 +4,6 @@ import { HomePage, SubscribePage, ArticlePage } from './components'
 import './styles/Blog.css'
 
 function App() {
-  // ensure theme persists across page reloads, even when navigating directly
   useEffect(() => {
     const saved = localStorage.getItem('theme') || 'light'
     document.documentElement.setAttribute('data-theme', saved)
