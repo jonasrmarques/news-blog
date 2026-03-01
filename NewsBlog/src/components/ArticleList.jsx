@@ -13,7 +13,7 @@ const articles = [
   {
     id: 2,
     title: 'Tendências de Tecnologia que Vão Dominar 2026',
-    category: 'Tech',
+    category: 'Tecnologia',
     excerpt: 'De blockchain a quantum computing, conheça as inovações que moldarão o nosso futuro.',
     image: 'https://images.pexels.com/photos/5632399/pexels-photo-5632399.jpeg?auto=compress&cs=tinysrgb&w=600',
     date: '27 de Fevereiro, 2026',
@@ -48,7 +48,7 @@ const articles = [
   },
   {
     id: 6,
-    title: 'Sustentabilidade no Setor Tech',
+    title: 'Sustentabilidade no Setor Tecnologia',
     category: 'Sustentabilidade',
     excerpt: 'Como as grandes empresas de tecnologia estão se comprometendo com um futuro mais verde.',
     image: 'https://images.pexels.com/photos/3836292/pexels-photo-3836292.jpeg?auto=compress&cs=tinysrgb&w=600',

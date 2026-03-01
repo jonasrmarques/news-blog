@@ -95,7 +95,6 @@ export const SubscribePage = () => {
                 >
                   <option value="todos">Todas as categorias</option>
                   <option value="tecnologia">Tecnologia</option>
-                  <option value="tech">Tech</option>
                   <option value="lifestyle">Lifestyle</option>
                   <option value="negocios">Negócios</option>
                   <option value="sustentabilidade">Sustentabilidade</option>

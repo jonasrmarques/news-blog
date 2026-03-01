@@ -36,7 +36,7 @@ O que você acha sobre o futuro da IA? Compartilhe sua opinião nos comentários
   {
     id: 2,
     title: 'Tendências de Tecnologia que Vão Dominar 2026',
-    category: 'Tech',
+    category: 'Tecnologia',
     excerpt: 'De blockchain a quantum computing, conheça as inovações que moldarão o nosso futuro.',
     image: 'https://images.pexels.com/photos/5632399/pexels-photo-5632399.jpeg?auto=compress&cs=tinysrgb&w=800',
     date: '27 de Fevereiro, 2026',
@@ -59,7 +59,7 @@ A RA deixou os smartphones. Óculos inteligentes agora são acessíveis e práti
 
 ## Sustentabilidade Digital
 
-As empresas tech finalmente estão levando a sério sua pegada de carbono. Centros de dados green e computação eficiente em energia são agora a norma, não exceção.
+As empresas Tecnologia finalmente estão levando a sério sua pegada de carbono. Centros de dados green e computação eficiente em energia são agora a norma, não exceção.
 
 ## Segurança Descentralizada
 
@@ -124,19 +124,19 @@ O ecossistema de startups nunca foi tão vibrante. Com investimentos em recorde 
 
 Uma série de empresas estão revolucionando como geramos e armazenamos energia. Baterias de próxima geração e painéis solares mais eficientes estão saindo de laboratórios para o mercado.
 
-## Biotech Inovadora
+## BioTecnologia Inovadora
 
 A biotecnologia está resolvendo problemas que pareciam insuperáveis. Terapias gênicas, medicamentos personalizados e cultivo de carne em laboratório estão mudando a medicina e a alimentação.
 
-## FinTechs Disruptivas
+## FinTecnologias Disruptivas
 
 Novos modelos bancários descentralizados estão democratizando o acesso a produtos financeiros. Remessas internacionais, investimentos e seguros agora são mais acessíveis.
 
-## EdTech Para Todos
+## EdTecnologia Para Todos
 
 Startups de educação estão tornando aprendizado personalizado acessível globalmente. Cursos adaptativos e mentorias por IA estão transformando como aprendemos.
 
-## SpaceTech
+## SpaceTecnologia
 
 Não apenas empresas existentes, mas startups estão explorando o espaço. Satélites mais baratos, turismo espacial comercial e mineração por asteroides deixaram de ser ficção.
 
@@ -209,7 +209,7 @@ Você está pronto para Web3?
   },
   {
     id: 6,
-    title: 'Sustentabilidade no Setor Tech',
+    title: 'Sustentabilidade no Setor Tecnologia',
     category: 'Sustentabilidade',
     excerpt: 'Como as grandes empresas de tecnologia estão se comprometendo com um futuro mais verde.',
     image: 'https://images.pexels.com/photos/3836292/pexels-photo-3836292.jpeg?auto=compress&cs=tinysrgb&w=800',
@@ -221,7 +221,7 @@ A indústria de tecnologia consome muita energia. Data centers, manufatura de ch
 
 ## O Despertar
 
-Grandes tech companies finalmente reconheceram sua responsabilidade. Microsoft, Google e Apple anunciaram ambiciosos objetivos de carbon neutrality.
+Grandes Tecnologia companies finalmente reconheceram sua responsabilidade. Microsoft, Google e Apple anunciaram ambiciosos objetivos de carbon neutrality.
 
 ## Inovações Green
 
